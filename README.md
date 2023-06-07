@@ -12,8 +12,9 @@ Users should be able to:
 # Screenshot
 
 ![Home](frontend/src/assets/Screen-Shot-DT-home-admin.png)
+
 ![Product](frontend/src/assets/Screen-Shot-DT-product-page.png)
-![Add product](frontend/src/assets/Screen-Shot-DT-create-product.png)
+
 
 
 
